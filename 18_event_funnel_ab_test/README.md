@@ -1,6 +1,6 @@
 # Проверка результатов А/В-теста рекомендательной системы
 
-Проект содержит интерактивные графики plotly.
+Проект содержит интерактивные графики plotly. Для полноценного отображения смотреть тетрадку через nbviewer по [ссылке](https://nbviewer.org/github/mydaddysgotagun/data_analyst_portfolio/blob/main/18_event_funnel_ab_test/18_event_funnel_ab_test.ipynb).
 
 ## Материалы
 
